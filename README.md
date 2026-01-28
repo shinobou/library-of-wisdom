@@ -1,2 +1,8 @@
-# library-of-wisdom
-a collaborative markdown-based digital encyclopedia
+# 📚 Project of Wisdom
+
+![Logo Placeholder](logo.png)
+
+## Table of Contents
+- Introduction
+- History
+- Contributions
