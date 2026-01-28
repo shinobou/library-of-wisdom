@@ -1,2 +1,7 @@
-# library-of-wisdom
-a collaborative markdown-based digital encyclopedia
+# 📚 Library of Wisdom
+![Logo Placeholder](logo.png)
+
+## Table of Contents
+- Introduction
+- History
+- Contributions
