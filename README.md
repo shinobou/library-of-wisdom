@@ -1,9 +1,6 @@
-# 📚 Project of Wisdom
+# Library of Wisdom
+a collaborative markdown-based digital encyclopedia
 
-![Logo Placeholder](logo.png)
+## Project Mission Statement
 
-## Table of Contents
-- Introduction
-- History
-- Contributions
-
+The Library of Wisdom aims to collect and preserve shared knowledge through collaborative development.
